@@ -1,0 +1,5 @@
+hi all
+i love coding
+this file make for git commit -m 'first cimmit also ammend'
+git add forgotten file
+git commit --amend
